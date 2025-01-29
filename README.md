@@ -39,8 +39,7 @@ Display of the player's score and the next piece, with intuitive controls.
 
 ## **Screenshots / GIFs**
 
-![Tetris1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
-
+![Tetris1](https://github.com/Mecha-NOX/Retro-Tetris/blob/15b87bfd64c5b1ad54b00290e2c0628f0b2d2d03/GIFs/Retro-Tetris_HighRes.gif)
 ---
 
 ## **Installation and Setup**
